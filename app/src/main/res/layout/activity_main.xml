@@ -23,6 +23,11 @@
         android:id="@+id/btnShowProgressDialog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+    <Button
+        android:text="Show Date Picker"
+        android:id="@+id/btnShowDatePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>
